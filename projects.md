@@ -4,7 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
-# Blaze
+# Research
+
+## Guided Exploit Construction
+
+Explore how type-driven development and proof assistants can be used in the construction of exploit chains.
+
+## Identify Inlined Functions with Code Embeddings
+
+Generate code embeddings for compiled functions with graph neural networks to support identification of inlined functions.
+
+# Software
+
+## Blaze
 
 [https://github.com/kudu-dynamics/blaze](https://github.com/kudu-dynamics/blaze)
 
