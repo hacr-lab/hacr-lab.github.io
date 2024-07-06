@@ -3,3 +3,21 @@
 ---
 
 @import "minima";
+
+.wrap-image {
+  overflow: hidden;
+}
+
+.wrap-image img.align-left {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  max-width: 50%;
+}
+
+.wrap-image img.align-right {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  max-width: 50%;
+}
