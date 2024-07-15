@@ -5,7 +5,9 @@ permalink: /team/
 ---
 
 
-## Ph.D. Students
+## Students
+
+### PhD
 
 {% assign phd_students = site.team | where: "membership", "phd_student" | sort: 'date' %}
 
@@ -17,7 +19,7 @@ permalink: /team/
 {% endif %}
 {% endfor %}
 
-## M.S. Students
+### MS
 
 {% assign ms_students = site.team | where: "membership", "ms_student" | sort: 'date' %}
 
@@ -29,7 +31,7 @@ permalink: /team/
 {% endif %}
 {% endfor %}
 
-## Undergraduates
+### BS
 
 {% assign ug_students = site.team | where: "membership", "undergrad_student" | sort: 'date' %}
 
