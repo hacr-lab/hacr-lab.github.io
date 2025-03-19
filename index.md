@@ -7,6 +7,6 @@ title: Home
 list_title: News
 ---
 
-The HACR Lab (Harnessing Automation in Cybersecurity Reasoning) is a research lab at Montana State University focused on developing novel techniques in program analysis, machine learning, and automated reasoning to address the inherent complexities in cybersecurity tasks such as vulnerabilty discovery, exploitation, and reverse engineering.
+The HACR Lab (Harnessing Automation in Cybersecurity Reasoning) is a research lab at Montana State University focused on developing novel techniques in program analysis, machine learning, and automated reasoning to address the inherent complexities in cybersecurity tasks such as vulnerability discovery, exploitation, and reverse engineering.
 
-In addition to research, HACR Lab members run the *learn2ctf* CTF team as a way to introduce students and others to offensive computer security.
+In addition to research, HACR Lab members support and participate on the HackerCats CTF team where they practice offensive computer security techniques.
