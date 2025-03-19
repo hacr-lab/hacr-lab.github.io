@@ -36,7 +36,6 @@ header_pages:
   - team.md
   - papers.md
   - projects.md
-  - learn2ctf.md
 
 collections:
   team:
