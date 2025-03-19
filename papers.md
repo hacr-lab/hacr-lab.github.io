@@ -6,6 +6,9 @@ permalink: /papers/
 
 # Conference
 
+
+- Gerard Shu Fuhnwi, Matthew Revelle, Bradley Whitaker, Clemente Izurieta. _Using Large Language Models to Mitigate Human-Induced Bias in SMS Spam: An Empirical Approach_, IEEE Cyber Security and Resilience (CSR), September 2025.
+
 - Carson Gross, Dillon Shaffer, Matthew Revelle. [_Hypermedia Controls: From Feral to Formal_](https://dl.acm.org/doi/10.1145/3648188.3675127), ACM Hypertext (HT), September 2024.
 
 - Gerard Shu Fuhnwi, Matthew Revelle, Clemente Izurieta. [_A Hybrid Anomaly Detection Approach for Obfuscated Malware_](https://www.cs.montana.edu/izurieta/pubs/CSR2024.pdf), IEEE Cyber Security and Resilience (CSR), September 2024.
@@ -16,7 +19,7 @@ permalink: /papers/
 
 # Poster
 
-- Jasmine Vang and Matthew Revelle. _Formalizing Cognitive Biases for Cybersecurity Defenses_, ACM Conference on Computer and Communications Security (CCS), October 2024.
+- Jasmine Vang and Matthew Revelle. [_Formalizing Cognitive Biases for Cybersecurity Defenses_](https://dl.acm.org/doi/abs/10.1145/3658644.3691403), ACM Conference on Computer and Communications Security (CCS), December 2024.
 
 # Workshop
 
