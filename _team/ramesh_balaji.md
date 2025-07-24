@@ -1,7 +1,7 @@
 ---
 layout: profile
 name: Ramesh Balaji
-handle: yuv418
+handle: cdknight
 bio: "Ramesh is a CS student at Rutgers University and has conducted research at MSU through the NSF REU program."
 image: "/assets/images/people/blank.png"
 membership: undergrad_student
