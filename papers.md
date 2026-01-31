@@ -14,8 +14,6 @@ permalink: /papers/
 
 - Gerard Shu Fuhnwi, Matthew Revelle, Clemente Izurieta. [_Improving Network Intrusion Detection Performance: An Empirical Evaluation Using Extreme Gradient Boosting (XGBoost) with Recursive Feature Elimination_](https://www.researchgate.net/profile/Gerard-Shu-Fuhnwi/publication/378277014_Improving_Network_Intrusion_Detection_Performance_An_Empirical_Evaluation_Using_Extreme_Gradient_Boosting_XGBoost_with_Recursive_Feature_Elimination/links/65d1489801325d4652117e66/Improving-Network-Intrusion-Detection-Performance-An-Empirical-Evaluation-Using-Extreme-Gradient-Boosting-XGBoost-with-Recursive-Feature-Elimination.pdf), IEEE International Conference on AI in Cybersecurity (ICAIC), February 2024.
 
-- Matthew Revelle, Matt Parker, Kevin Orr. [_Blaze: An Interprocedural Analysis Framework_](https://bar2023.github.io/2023papers/9/bar2023-final9.pdf), The Workshop on Binary Analysis Research (BAR), March 2023.
-
 # Poster
 
 - Jordan Moore, Emilie Taylor, Ramesh Balaji, Matt Revelle, Kevin Orr. _Investigating the Benefits of Composable Emulation: Styx
@@ -25,4 +23,8 @@ Emulator as a Case Study_, USENIX Security, August 2025.
 
 # Workshop
 
+- Michael Kadoshnikov, Clemente Izurieta, Matthew Revelle. _A Comparative Study of Program Graph Effectiveness for Binary Vulnerability Detection_, Workshop on Binary Analysis Research (BAR), March 2026.
+
 - Ramesh Balaji, Meera Sridhar, Matthew Revelle. _Formalizing Discovery of Weird States and Weird Machine Primitives Using Program Semantics_, Workshop on Programming Languages and Analysis for Security (PLAS), October 2024.
+
+- Matthew Revelle, Matt Parker, Kevin Orr. [_Blaze: An Interprocedural Analysis Framework_](https://bar2023.github.io/2023papers/9/bar2023-final9.pdf), Workshop on Binary Analysis Research (BAR), March 2023.
