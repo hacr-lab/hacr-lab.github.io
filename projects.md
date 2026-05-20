@@ -18,6 +18,6 @@ Generate code embeddings for compiled functions with graph neural networks to su
 
 ## Blaze
 
-[https://github.com/kudu-dynamics/blaze](https://github.com/kudu-dynamics/blaze)
+[https://github.com/kudu-dynamics/blaze-platform](https://github.com/kudu-dynamics/blaze-platform)
 
 A framework for program analysis with a focus on modeling programmer assumptions, context- and path-sensitive analyses, and type checking.
