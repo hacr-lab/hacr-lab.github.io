@@ -7,50 +7,32 @@ permalink: /team/
 
 ## Students
 
+{% assign phd_students = site.team | where: "membership", "phd_student" | sort: 'sort_name' %}
+{% if phd_students.size > 0 %}
 ### PhD
-
-{% assign phd_students = site.team | where: "membership", "phd_student" | sort: 'date' %}
-
-{% for member in phd_students %}
-{% if member.handle %}
-### [{{ member.name }} ({{ member.handle }})]({{ member.url }})
-{% else %}
-### [{{ member.name }}]({{ member.url }})
+{% include team-list.md members=phd_students %}
 {% endif %}
-{% endfor %}
 
+{% assign ms_students = site.team | where: "membership", "ms_student" | sort: 'sort_name' %}
+{% if ms_students.size > 0 %}
 ### MS
-
-{% assign ms_students = site.team | where: "membership", "ms_student" | sort: 'date' %}
-
-{% for member in ms_students %}
-{% if member.handle %}
-### [{{ member.name }} ({{ member.handle }})]({{ member.url }})
-{% else %}
-### [{{ member.name }}]({{ member.url }})
+{% include team-list.md members=ms_students %}
 {% endif %}
-{% endfor %}
 
+{% assign ug_students = site.team | where: "membership", "undergrad_student" | sort: 'sort_name' %}
+{% if ug_students.size > 0 %}
 ### BS
-
-{% assign ug_students = site.team | where: "membership", "undergrad_student" | sort: 'date' %}
-
-{% for member in ug_students %}
-{% if member.handle %}
-### [{{ member.name }} ({{ member.handle }})]({{ member.url }})
-{% else %}
-### [{{ member.name }}]({{ member.url }})
+{% include team-list.md members=ug_students %}
 {% endif %}
-{% endfor %}
 
+{% assign facultys = site.team | where: "membership", "faculty" | sort: 'sort_name' %}
+{% if facultys.size > 0 %}
 ## Faculty
-
-{% assign facultys = site.team | where: "membership", "faculty" | sort: 'date' %}
-
-{% for member in facultys %}
-{% if member.handle %}
-### [{{ member.name }} ({{ member.handle }})]({{ member.url }})
-{% else %}
-### [{{ member.name }}]({{ member.url }})
+{% include team-list.md members=facultys %}
 {% endif %}
-{% endfor %}
+
+{% assign alumni = site.team | where: "membership", "alumnus" | sort: 'sort_name' %}
+{% if alumni.size > 0 %}
+## Alumni
+{% include team-list.md members=alumni %}
+{% endif %}

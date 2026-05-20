@@ -1,6 +1,7 @@
 ---
 layout: profile
 name: Nolan Jenko
+sort_name: Jenko, Nolan
 handle:
 bio:
 image: "/assets/images/people/blank.png"

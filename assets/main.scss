@@ -21,3 +21,23 @@
   margin-bottom: 15px;
   max-width: 50%;
 }
+
+.team-member {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.team-portrait {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.team-member-info h3 {
+  margin: 0;
+}

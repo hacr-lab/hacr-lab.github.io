@@ -1,6 +1,7 @@
 ---
 layout: profile
 name: Dillon Shaffer
+sort_name: Shaffer, Dillon
 handle: molkars
 bio: "Dillon is currently pursuing a Ph.D in Computer Science from Montana State. His research interests include compilers and programming languages, program analysis, and software development. Outside the lab, he enjoys spending time with friends, swimming, gaming, and reading."
 image: "/assets/images/people/dillon_shaffer.jpg"
