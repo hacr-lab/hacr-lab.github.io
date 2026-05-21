@@ -6,24 +6,28 @@ permalink: /papers/
 
 # Conference
 
-- Raghav K. Bhat, Robert Gutzwiller, Sean Guarino, Spencer Lynn, Benjamin Clegg, Joel Hypolite, Michael Sieffert, Michael Locasto, David Kelle, Max Slocum, Curt Wu, Scott Harrison, Matthew Revelle, Susan Latiff. [_Exploiting Base Rate Neglect to Disrupt Cyber Attackers_](https://scholarspace.manoa.hawaii.edu/items/6e71e508-7d9d-413f-821b-948f1dcd7d3b), Hawaii International Conference on System Sciences (HICSS), January 2026.
+- Raghav Bhat, Robert Gutzwiller, Sean Guarino, Spencer Lynn, Benjamin Clegg, Joel Hypolite, Michael Sieffert, Michael Locasto, David Kelle, Max Slocum, Curt Wu, Scott Harrison, Matthew Revelle, Susan Latiff. [_Exploiting Base Rate Neglect to Disrupt Cyber Attackers_](https://scholarspace.manoa.hawaii.edu/items/6e71e508-7d9d-413f-821b-948f1dcd7d3b), Hawaii International Conference on System Sciences (HICSS), January 2026.
 
-- Gerard Shu Fuhnwi, Matthew Revelle, Bradley Whitaker, Clemente Izurieta. "Using Large Language Models to Mitigate Human-Induced Bias in SMS Spam: An Empirical Approach", IEEE Cyber Security and Resilience (CSR), February 2025.
+- Gerard Shu Fuhnwi, Matthew Revelle, Bradley Whitaker, Clemente Izurieta. [_Using Large Language Models to Mitigate Human-Induced Bias in SMS Spam: An Empirical Approach_](https://www.cs.montana.edu/izurieta/pubs/ICAIC_2025.pdf), IEEE Cyber Security and Resilience (CSR), February 2025.
 
 - Gerard Shu Fuhnwi, Matthew Revelle, Clemente Izurieta. [_A Hybrid Anomaly Detection Approach for Obfuscated Malware_](https://www.cs.montana.edu/izurieta/pubs/CSR2024.pdf), IEEE Cyber Security and Resilience (CSR), September 2024.
 
 - Gerard Shu Fuhnwi, Matthew Revelle, Clemente Izurieta. [_Improving Network Intrusion Detection Performance: An Empirical Evaluation Using Extreme Gradient Boosting (XGBoost) with Recursive Feature Elimination_](https://www.researchgate.net/profile/Gerard-Shu-Fuhnwi/publication/378277014_Improving_Network_Intrusion_Detection_Performance_An_Empirical_Evaluation_Using_Extreme_Gradient_Boosting_XGBoost_with_Recursive_Feature_Elimination/links/65d1489801325d4652117e66/Improving-Network-Intrusion-Detection-Performance-An-Empirical-Evaluation-Using-Extreme-Gradient-Boosting-XGBoost-with-Recursive-Feature-Elimination.pdf), IEEE International Conference on AI in Cybersecurity (ICAIC), February 2024.
 
+# Journal
+
+- Robert Gutzwiller, Raghav Bhat, Sean Guarino, Benjamin Clegg, Spencer Lynn, Virginia Kwan, Joel Hypolite, Michael Sieffert, Michael Locasto, David Kelle, Max Slocum, Curt Wu, Scott Harrison, Matthew Revelle, Susan Latiff. [_Exploiting Loss Aversion Disrupts Skilled Attackers in a Realistic Cyber Range_](https://link.springer.com/article/10.1007/s42113-026-00297-5), Computational Brain & Behavior, April 2026.
+
 # Poster
 
-- Jordan Moore, Emilie Taylor, Ramesh Balaji, Matt Revelle, Kevin Orr. _Investigating the Benefits of Composable Emulation: Styx
-Emulator as a Case Study_, USENIX Security, August 2025.
+- Jordan Moore, Emilie Taylor, Ramesh Balaji, Matt Revelle, Kevin Orr. [_Investigating the Benefits of Composable Emulation: Styx
+Emulator as a Case Study_](https://stumbl.ing/pdfs/Styx_Emulator_USENIX__25.pdf), USENIX Security, August 2025.
 
 - Jasmine Vang and Matthew Revelle. [_Formalizing Cognitive Biases for Cybersecurity Defenses_](https://dl.acm.org/doi/abs/10.1145/3658644.3691403), ACM Conference on Computer and Communications Security (CCS), December 2024.
 
 # Workshop
 
-- Michael Kadoshnikov, Clemente Izurieta, Matthew Revelle. _A Comparative Study of Program Graph Effectiveness for Binary Vulnerability Detection_, Workshop on Binary Analysis Research (BAR), March 2026.
+- Michael Kadoshnikov, Clemente Izurieta, Matthew Revelle. [_A Comparative Study of Program Graph Effectiveness for Binary Vulnerability Detection_](https://www.ndss-symposium.org/wp-content/uploads/bar2026-91.pdf), Workshop on Binary Analysis Research (BAR), March 2026.
 
 - Ramesh Balaji, Meera Sridhar, Matthew Revelle. _Formalizing Discovery of Weird States and Weird Machine Primitives Using Program Semantics_, Workshop on Programming Languages and Analysis for Security (PLAS), October 2024.
 
