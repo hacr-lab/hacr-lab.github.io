@@ -31,6 +31,12 @@ permalink: /team/
 {% include team-list.md members=facultys %}
 {% endif %}
 
+{% assign affiliates = site.team | where: "membership", "affiliate" | where: "current", true | sort: 'sort_name' %}
+{% if affiliates.size > 0 %}
+## Research Affiliates
+{% include team-list.md members=affiliates %}
+{% endif %}
+
 {% assign alumni = site.team | where: "current", false | sort: 'sort_name' %}
 {% if alumni.size > 0 %}
 ## Alumni
